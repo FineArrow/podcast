@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>δεθψ ερπι - δτεγχΰρθ</title>
-    <googleplay:author>δεθψ ερπι</googleplay:author>
-    <description>ΰελμιν ΰϊ δψΰω αωμεω. τεγχΰρθ ηρψ ξωξςεϊ ςμ δλμ, λμεν εωεν γαψ</description>
+    <title>Χ”Χ•ΧΧ¨ Χ•Χ΅Χ Χ™ - Χ”Χ¤Χ•Χ“Χ§ΧΧ΅Χ</title>
+    <googleplay:author>Χ”Χ•ΧΧ¨ Χ•Χ΅Χ Χ™</googleplay:author>
+    <description>ΧΧ•Χ›ΧΧ™Χ ΧΧª Χ”Χ¨ΧΧ© Χ‘Χ©ΧΧ•Χ©. Χ¤Χ•Χ“Χ§ΧΧ΅Χ Χ—Χ΅Χ¨ ΧΧ©ΧΧΆΧ•Χª ΧΆΧ Χ”Χ›Χ, Χ›ΧΧ•Χ Χ•Χ©Χ•Χ Χ“Χ‘Χ¨</description>
     <googleplay:image href="https://scontent.fsdv1-1.fna.fbcdn.net/v/t1.0-9/23472092_170932756825176_6501042291889173607_n.jpg?oh=92066c49220690acd7a2ed6a60febfb2&oe=5B045326"/>
     <language>he</language>
     <link>https://alonhutter.wixsite.com/hapodcast</link>
     <item>
-      <title>μχθ - τψχ ψΰωεο</title>
-      <description>ΰελμιν ΰϊ δψΰω αωμεω. τεγχΰρθ ηρψ ξωξςεϊ ςμ δλμ, λμεν εωεν γαψ</description>
+      <title>ΧΧ§Χ - Χ¤Χ¨Χ§ Χ¨ΧΧ©Χ•Χ</title>
+      <description>ΧΧ•Χ›ΧΧ™Χ ΧΧª Χ”Χ¨ΧΧ© Χ‘Χ©ΧΧ•Χ©. Χ¤Χ•Χ“Χ§ΧΧ΅Χ Χ—Χ΅Χ¨ ΧΧ©ΧΧΆΧ•Χª ΧΆΧ Χ”Χ›Χ, Χ›ΧΧ•Χ Χ•Χ©Χ•Χ Χ“Χ‘Χ¨</description>
       <pubDate>Wed, 15 Nov 2017 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_029e0143e9b84a6cade8ca9d509df284-128.mp3"
                  type="audio/mpeg" length="49053405"/>
@@ -18,8 +18,8 @@
       <guid>episode-1</guid>
     </item>
     <item>
-      <title>ρχρ, ρξιν εςψρμιν - τψχ 2</title>
-      <description>τψχ θεα ξΰεγ, πτμΰ</description>
+      <title>Χ΅Χ§Χ΅, Χ΅ΧΧ™Χ Χ•ΧΆΧ¨Χ΅ΧΧ™Χ - Χ¤Χ¨Χ§ 2</title>
+      <description>Χ¤Χ¨Χ§ ΧΧ•Χ‘ ΧΧΧ•Χ“, Χ Χ¤ΧΧ</description>
       <pubDate>Tue, 5 Dec 2017 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_5400b5b193104571b5ebe86f1d057e03-128.mp3"
                  type="audio/mpeg" length="59845677"/>
@@ -27,8 +27,8 @@
       <guid>episode-2</guid>
     </item>
     <item>
-      <title>ρτιιωμ ςετεϊ - τψχ 3</title>
-      <description>ΰημδ ωμ τψχ αςεμν</description>
+      <title>Χ΅Χ¤Χ™Χ™Χ©Χ ΧΆΧ•Χ¤Χ•Χª - Χ¤Χ¨Χ§ 3</title>
+      <description>ΧΧ—ΧΧ” Χ©Χ Χ¤Χ¨Χ§ Χ‘ΧΆΧ•ΧΧ</description>
       <pubDate>Mon, 11 Dec 2017 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_5400b5b193104571b5ebe86f1d057e03-128.mp3"
                  type="audio/mpeg" length="60849069"/>
@@ -36,8 +36,8 @@
       <guid>episode-3</guid>
     </item>
     <item>
-      <title>ηο ειΰιψ ξϊΰψηιν - τψχ 4</title>
-      <description>ρτιιωμ ειχθξζ ιεπιθ</description>
+      <title>Χ—Χ Χ•Χ™ΧΧ™Χ¨ ΧΧªΧΧ¨Χ—Χ™Χ - Χ¤Χ¨Χ§ 4</title>
+      <description>Χ΅Χ¤Χ™Χ™Χ©Χ Χ•Χ™Χ§ΧΧΧ– Χ™Χ•Χ Χ™Χ</description>
       <pubDate>Sun, 24 Dec 2017 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_25a68441538b442b8c1416c9b38d027c-128.mp3"
                  type="audio/mpeg" length="55302957"/>
@@ -45,8 +45,8 @@
       <guid>episode-4</guid>
     </item>
     <item>
-      <title>ιΰιψ, χρθιΰμ εψεαεθιν ψφηπιιν - τψχ 5</title>
-      <description>δτψχ δλι θεα αςεμν</description>
+      <title>Χ™ΧΧ™Χ¨, Χ§Χ΅ΧΧ™ΧΧ Χ•Χ¨Χ•Χ‘Χ•ΧΧ™Χ Χ¨Χ¦Χ—Χ Χ™Χ™Χ - Χ¤Χ¨Χ§ 5</title>
+      <description>Χ”Χ¤Χ¨Χ§ Χ”Χ›Χ™ ΧΧ•Χ‘ Χ‘ΧΆΧ•ΧΧ</description>
       <pubDate>Sat, 6 Jan 2018 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_28103535f97a43e69cb681e4ffa4c40a-128.mp3"
                  type="audio/mpeg" length="56508543"/>
@@ -54,8 +54,8 @@
       <guid>episode-5</guid>
     </item>
      <item>
-     <title>ρτιιωμ ϊεξλιν αμεηξιν - τψχ 6</title>
-      <description>τψχ ξγδιν</description>
+     <title>Χ΅Χ¤Χ™Χ™Χ©Χ ΧªΧ•ΧΧ›Χ™Χ Χ‘ΧΧ•Χ—ΧΧ™Χ - Χ¤Χ¨Χ§ 6</title>
+      <description>Χ¤Χ¨Χ§ ΧΧ“Χ”Χ™Χ</description>
       <pubDate>Mon, 29 Jan 2018 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_a3e8c178a11e4cc0a98fd00c505ef27f-128.mp3"
                  type="audio/mpeg" length="68678261"/>
@@ -63,8 +63,8 @@
       <guid>episode-6</guid>
        </item>
         <item>
-     <title>ςιξεϊ δχξτιιπψιν δβγεμ - τψχ 7</title>
-      <description>ςιξεϊ ξτηιγ, αφγ ωμ ξι ΰϊν?</description>
+     <title>ΧΆΧ™ΧΧ•Χª Χ”Χ§ΧΧ¤Χ™Χ™Χ Χ¨Χ™Χ Χ”Χ’Χ“Χ•Χ - Χ¤Χ¨Χ§ 7</title>
+      <description>ΧΆΧ™ΧΧ•Χª ΧΧ¤Χ—Χ™Χ“, Χ‘Χ¦Χ“ Χ©Χ ΧΧ™ ΧΧªΧ?</description>
       <pubDate>Sun, 7  Feb 2018 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_a55de3274f5b425dbd80ddfc70914944-128.mp3"
                  type="audio/mpeg" length="63784749"/>
@@ -72,8 +72,8 @@
       <guid>episode-7</guid>
       </item>
       <item>
-     <title>τψχ δδγηδ - τψχ 8</title>
-      <description>ΰεδαιν μδωϊιο? βν ΰπηπε</description>
+     <title>Χ¤Χ¨Χ§ Χ”Χ”Χ“Χ—Χ” - Χ¤Χ¨Χ§ 8</title>
+      <description>ΧΧ•Χ”Χ‘Χ™Χ ΧΧ”Χ©ΧªΧ™Χ? Χ’Χ ΧΧ Χ—Χ Χ•</description>
       <pubDate>Mon, 15  Feb 2018 12:00:00 GMT</pubDate>
       <enclosure url="https://music.wixstatic.com/preview/a80314_b2fef64815f047c292c3eb1fcc69dd34-128.mp3"
                  type="audio/mpeg" length="61932333"/>
